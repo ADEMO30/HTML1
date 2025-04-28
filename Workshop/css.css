@@ -1,0 +1,21 @@
+html{
+    background-color: gray;
+}
+header{
+    height: 50px;
+
+    padding: 10px;
+    margin: 10px;
+   
+}
+
+main{
+    
+    height: 60%;
+}
+footer{
+    padding: 10px;
+    margin: 10px;
+    height: 20px;
+   
+}
